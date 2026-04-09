@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Yogurt8A7.aternos.me",
+    "ip": "Yogurt8A7.aternos.me:21859",
     "port": 21859,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
